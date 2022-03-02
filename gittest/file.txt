@@ -1,3 +1,7 @@
 hello myname is hikki
 oke oke you too
+<<<<<<< HEAD
 so 2
+=======
+
+>>>>>>> a5e05090dc5a0117f21c3deb848a880d7abc4f3c
